@@ -6,10 +6,10 @@ get '/'do
   erb: index
 
   post '/' do
-    
+
 end
 
 get '/' do
-  
+
 end
 end
